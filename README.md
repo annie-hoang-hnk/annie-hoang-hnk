@@ -1,13 +1,11 @@
 ## Hi there ✨
 
-I'm Annie, an MDS Data Science student at Durham University.
+This is Annie, your friendly MDS fellow from Durham ✨
 
-My previous work focused mainly on finance and financial modelling, building on my undergraduate degree in Finance. This account is a fresh start.
+I had an older account that leaned heavily towards finance and financial modelling (no surprise, given my Finance background). I've moved on from it, and this is my fresh start. This time, I want to go wider. Now that I'm doing my Master's in Data Science (which I'm genuinely loving), I want to try new things with data in general, not just in finance.
 
-Through my Master's, I'm broadening my scope beyond finance and applying data science to a wider range of problems.
+So whatever I'm learning, exploring or stumbling into right now, I'll turn it into a project and share it here.
 
-Here, I'll share projects based on what I'm currently learning and exploring, from analysis and modelling to new tools and techniques.
-
-Feel free to look around, and stay tuned for more 👋
+Stay tuned, and see you around 👋
 
 📫 [LinkedIn](https://www.linkedin.com/in/nhat-khanh-hoang-226a54273/) · [nhatkhanh22204@gmail.com]
