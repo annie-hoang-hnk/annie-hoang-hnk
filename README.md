@@ -1,6 +1,6 @@
 ## Hi there ✨
 
-I'm Annie, an MSc Data Science student at Durham University.
+I'm Annie, an MDS Data Science student at Durham University.
 
 My previous work focused mainly on finance and financial modelling, building on my undergraduate degree in Finance. This account is a fresh start.
 
