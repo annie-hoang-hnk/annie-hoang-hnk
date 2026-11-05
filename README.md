@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there ✨
 
-<!--
-**annie-hoang-hnk/annie-hoang-hnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Annie, an MSc Data Science student at Durham University.
 
-Here are some ideas to get you started:
+My previous work focused mainly on finance and financial modelling, building on my undergraduate degree in Finance. This account is a fresh start.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through my Master's, I'm broadening my scope beyond finance and applying data science to a wider range of problems.
+
+Here, I'll share projects based on what I'm currently learning and exploring, from analysis and modelling to new tools and techniques.
+
+Feel free to look around, and stay tuned for more 👋
+
+📫 [LinkedIn](https://www.linkedin.com/in/nhat-khanh-hoang-226a54273/) · [nhatkhanh22204@gmail.com]
